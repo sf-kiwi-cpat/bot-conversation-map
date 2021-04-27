@@ -1,2 +1,3 @@
 .sfdx/indexes/lwc/custom-components.json
 .sfdx/tools/apex.db
+.sfdx/sfdx-config.json
